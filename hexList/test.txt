@@ -1,0 +1,17 @@
+Address of ldoubleVal is 0x7ffeb61e2bf0
+Address of doubleVal is 0x7ffeb61e2ba0
+Address of floatVal is 0x7ffeb61e2b98
+Address of longVal is 0x7ffeb61e2ba8
+Address of intVal is 0x7ffeb61e2b9c
+Address of shortVal is 0x7ffeb61e2b96
+Address of charVal1 is 0x7ffeb61e2b93
+Address of charVal2 is 0x7ffeb61e2b94
+Address of boolVal is 0x7ffeb61e2b95
+Address of ldPtr is 0x7ffeb61e2bb0
+Address of dPtr is 0x7ffeb61e2bb8
+Address of fPtr is 0x7ffeb61e2bc0
+Address of lPtr is 0x7ffeb61e2bc8
+Address of iPtr is 0x7ffeb61e2bd0
+Address of sPtr is 0x7ffeb61e2bd8
+Address of cPtr is 0x7ffeb61e2be0
+Address of bPtr is 0x7ffeb61e2be8
